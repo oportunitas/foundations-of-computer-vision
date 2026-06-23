@@ -1,0 +1,3 @@
+sometimes re-learning stuff with a different viewpoint is beneficial (and fun!), in this repository, ill be revisiting computer vision through the "Foundations of Computer Vision" book by [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), [Phillip Isola](https://web.mit.edu/phillipi/), and [William Freeman](https://billf.mit.edu/). 
+
+for obvious reasons, this repository is not a fork or copy of the book, but will contain some of my custom exploratory scripts in python, which may or may not directly correlate to the chapters of the book completely (sometimes i might venture too far 😅)
