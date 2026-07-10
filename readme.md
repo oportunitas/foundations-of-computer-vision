@@ -15,3 +15,15 @@ imo so far, this book provides an amazing new perspective on computer vision fun
 i realized by reading so far that i missed knowing a huge ton of notation/naming conventions when i was in campus (i.e. i always tried to describe the set of possible outcomes of a training session on the fly, but i realized that there's a term for it: `hypothesis space`) i'm looking forward to meeting lots more stuff like this and be more proficient in communicating with fellow computer vision people
 
 the exercise on making a linear regressor and polynomial regressor essentially from scratch is very neat. it lets me slow down and spend some time "greeting and conversing" with some of the most basic learning algorithms that i have been calling for granted via sklearn.
+
+## chapter 14 complete
+
+> fri, 10 jul
+
+i am humbled by just how much i know about the general sense and direction of how neural nets train, whilst knowing very little about the actual linear algebra and calculus is going on under the hood.
+
+i believe i have a good understanding of how neural nets train on a surface level. my understanding was enough for tinkering around with hyperparameters and or dataset configuration to create very good cv models *(one that im most proud of is the cv model for barunastra's camera perception module, which only trained on ~20 dataset images, augmented to 80, yet work near-flawlessly and outperform those of teams who trained on thousands of images, both in speed and accuracy)*
+
+however, i actually never got to slow down and befriend the calculus of it all (which is working wonders under the hood of things that i can just call via libraries). i am sad to admit that i never got the chance to do extensive calculus on linear/matrix operations during uni (not even sure if that's the right term for it) since it was not part of the curriculum.
+
+for now, i'll continue reading (past chapter 14) in my usual pace, and then when i feel like i've had enough momentum to dive deep into the calculus, ill go back to chapter 9-14 to meticulously implement and or explore the calculus. i really feel like this is one of the biggest gap in my knowledge currently.
