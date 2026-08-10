@@ -27,3 +27,9 @@ i believe i have a good understanding of how neural nets train on a surface leve
 however, i actually never got to slow down and befriend the calculus of it all (which is working wonders under the hood of things that i can just call via libraries). i am sad to admit that i never got the chance to do extensive calculus on linear/matrix operations during uni (not even sure if that's the right term for it) since it was not part of the curriculum.
 
 for now, i'll continue reading (past chapter 14) in my usual pace, and then when i feel like i've had enough momentum to dive deep into the calculus, ill go back to chapter 9-14 to meticulously implement and or explore the calculus. i really feel like this is one of the biggest gap in my knowledge currently.
+
+## chapter 15 complete
+
+> mon, 10 aug
+
+a very interesting thing i never thought of during my cinematography years is how capturing the impulse response of a recording room can provide an information of the reverberations of the room. perhaps this way there's a way to more intelligently do noise cancellation/removal? i might explore this later
