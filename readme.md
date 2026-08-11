@@ -32,4 +32,12 @@ for now, i'll continue reading (past chapter 14) in my usual pace, and then when
 
 > mon, 10 aug
 
-a very interesting thing i never thought of during my cinematography years is how capturing the impulse response of a recording room can provide an information of the reverberations of the room. perhaps this way there's a way to more intelligently do noise cancellation/removal? i might explore this later
+a very interesting thing i never thought of during my cinematography years is how capturing the impulse response of a recording room can provide an information of the reverberations of the room. perhaps this way there's a way to more intelligently do noise cancellation/removal? i might explore this later.
+
+### [side quest: mit 6.7960]: lecture 2 exercise
+
+> tue, 11 aug
+
+since i have plenty of time to refresh pretty much everything, i might as well! im decided to do a side quest by going through mit's 6.7960 class (deep learning) alongside reading this book, since the class uses this book heavily for reading materials (going through both the book and class might go hand-in-hand in understanding both in a deep level)
+
+i just completed the lecture 2 exercise, and decided to explore a bit further than the exercise's boundary by making an ipynb script of it. i was having an itch to see the subsequent iterations and see the learning process. after the code was done i found myself clicking 'run cell and below' repeatedly on the forward-backward pass section until the loss value is essentially 0 😅
