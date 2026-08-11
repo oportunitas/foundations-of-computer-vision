@@ -38,6 +38,6 @@ a very interesting thing i never thought of during my cinematography years is ho
 
 > tue, 11 aug
 
-since i have plenty of time to refresh pretty much everything, i might as well! im decided to do a side quest by going through mit's 6.7960 class (deep learning) alongside reading this book, since the class uses this book heavily for reading materials (going through both the book and class might go hand-in-hand in understanding both in a deep level)
+since i have plenty of time to refresh pretty much everything, i might as well! i've decided to do a side quest by going through mit's 6.7960 class (deep learning) alongside reading this book, since the class uses this book heavily for reading materials, going through both the book and class might go hand-in-hand in helping understand both in a deep level.
 
 i just completed the lecture 2 exercise, and decided to explore a bit further than the exercise's boundary by making an ipynb script of it. i was having an itch to see the subsequent iterations and see the learning process. after the code was done i found myself clicking 'run cell and below' repeatedly on the forward-backward pass section until the loss value is essentially 0 😅
