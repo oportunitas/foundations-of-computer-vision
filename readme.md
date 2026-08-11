@@ -34,7 +34,7 @@ for now, i'll continue reading (past chapter 14) in my usual pace, and then when
 
 a very interesting thing i never thought of during my cinematography years is how capturing the impulse response of a recording room can provide an information of the reverberations of the room. perhaps this way there's a way to more intelligently do noise cancellation/removal? i might explore this later.
 
-### [side quest: mit 6.7960]: lecture 2 exercise
+## [side quest: mit 6.7960]: lecture 2 exercise
 
 > tue, 11 aug
 
