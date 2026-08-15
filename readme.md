@@ -41,3 +41,11 @@ a very interesting thing i never thought of during my cinematography years is ho
 since i have plenty of time to refresh pretty much everything, i might as well! i've decided to do a side quest by going through mit's 6.7960 class (deep learning) alongside reading this book, since the class uses this book heavily for reading materials, going through both the book and class might go hand-in-hand in helping understand both in a deep level.
 
 i just completed the lecture 2 exercise, and decided to explore a bit further than the exercise's boundary by making an ipynb script of it. i was having an itch to see the subsequent iterations and see the learning process. after the code was done i found myself clicking 'run cell and below' repeatedly on the forward-backward pass section until the loss value is essentially 0 😅
+
+## chapter 16 complete
+
+> sat, 15 aug
+
+this is one of the heavier chapters so far, but it exposes me to fourier analysis in a depth i've never experienced before (and one that im eager to invest more time in later on). 
+
+the idea that intrigues me the most is that a linear filter, which can be written as convolutions on pixel/light-space, can instead be written as a product in the fourier domain. this would mean that there is a way quicker way to apply image filters if we were to apply fourier transform first to the image/s and then do the change in fourier space, and then only when we needed it, turn it back to pixel space. applying filter to a filter to a filter to an image only adds one extra product in the equation in fourier space, instead of a recursive function in pixel space (great stuff!)
